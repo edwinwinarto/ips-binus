@@ -24,4 +24,5 @@ Nilai Assignment = 100
 Bobot persentase = 30%
 
 Format yang di input.txt :
+
 algoprog,6,3,95,30,85,35,100,30
